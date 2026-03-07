@@ -1,0 +1,8 @@
+[     426ms] [WARNING] An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#%7B%22version%22%3A%223.14.0%22%2C%22message%22%3A104%2C%22args%22%3A%5B%22ApolloClient%22%2C%22uri%22%2C%22Please%20initialize%20an%20instance%20of%20%60HttpLink%60%20with%20%60uri%60%20instead.%22%5D%7D @ https://myskillwallet.ai/_next/static/chunks/73407-90160bc258adf394.js:0
+[     426ms] [WARNING] An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#%7B%22version%22%3A%223.14.0%22%2C%22message%22%3A17%2C%22args%22%3A%5B%5D%7D @ https://myskillwallet.ai/_next/static/chunks/73407-90160bc258adf394.js:0
+[     555ms] [WARNING] Unrecognized feature: 'web-share'. @ https://checkout.razorpay.com/v1/checkout.js:0
+[     555ms] [WARNING] Unrecognized feature: 'loopback-network'. @ https://checkout.razorpay.com/v1/checkout.js:0
+[   35275ms] [WARNING] An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#%7B%22version%22%3A%223.14.0%22%2C%22message%22%3A104%2C%22args%22%3A%5B%22ApolloClient%22%2C%22uri%22%2C%22Please%20initialize%20an%20instance%20of%20%60HttpLink%60%20with%20%60uri%60%20instead.%22%5D%7D @ https://myskillwallet.ai/_next/static/chunks/73407-90160bc258adf394.js:0
+[   35275ms] [WARNING] An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#%7B%22version%22%3A%223.14.0%22%2C%22message%22%3A17%2C%22args%22%3A%5B%5D%7D @ https://myskillwallet.ai/_next/static/chunks/73407-90160bc258adf394.js:0
+[   35335ms] [WARNING] Unrecognized feature: 'web-share'. @ https://checkout.razorpay.com/v1/checkout.js:0
+[   35335ms] [WARNING] Unrecognized feature: 'loopback-network'. @ https://checkout.razorpay.com/v1/checkout.js:0
