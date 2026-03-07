@@ -8,7 +8,8 @@ A comprehensive Machine Learning solution designed to detect and predict fraudul
 
 ### 1. Home Page
 *(A brief overview and welcome page for the application)*
-![Home Page](screenshots/home.png)
+<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/1a5c200a-e933-4299-877e-48eb44690449" />
+
 
 ### 2. Analytics Dashboard
 *(Interactive fraud statistics and visualization dashboard)*
