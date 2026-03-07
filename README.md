@@ -18,7 +18,8 @@ A comprehensive Machine Learning solution designed to detect and predict fraudul
 
 ### 3. Claim Prediction Form
 *(Input form to evaluate new insurance claims for potential fraud)*
-<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/0ef0d889-7886-4004-990c-e7f2e294540d" />
+<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/c0fb0d7e-8990-4431-9152-9c42365dddb6" />
+
 
 
 ### 4. Prediction Result
