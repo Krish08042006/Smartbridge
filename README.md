@@ -13,15 +13,17 @@ A comprehensive Machine Learning solution designed to detect and predict fraudul
 
 ### 2. Analytics Dashboard
 *(Interactive fraud statistics and visualization dashboard)*
-![Dashboard](screenshots/dashboard.png)
+<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/395eaebd-88ee-43d0-8040-fc25523242ec" />
+
 
 ### 3. Claim Prediction Form
 *(Input form to evaluate new insurance claims for potential fraud)*
-![Prediction Form](screenshots/prediction_form.png)
+<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/0ef0d889-7886-4004-990c-e7f2e294540d" />
+
 
 ### 4. Prediction Result
 *(Detailed analysis, risk level assessment, and recommendation)*
-![Prediction Result](screenshots/prediction_result.png)
+<img width="1300" height="649" alt="image" src="https://github.com/user-attachments/assets/780e2014-d683-4722-8346-d406333f45cd" />
 
 ---
 
